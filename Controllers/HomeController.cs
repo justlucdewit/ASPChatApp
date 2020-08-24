@@ -55,5 +55,13 @@ namespace aspchat.Controllers
 
             _messages.Add(m);
         }
+
+        public void DumpHistToDrive()
+        {
+            foreach (Message m in _messages)
+            {
+                Console.Write($"{m.message}♦{m.sender}♦{m.sender}\n");
+            }
+        }
     }
 }
