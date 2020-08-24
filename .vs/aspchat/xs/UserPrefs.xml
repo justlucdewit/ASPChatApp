@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{3AFC1DA4-5AB1-409E-90DE-ED2B6EFF8ABE}|aspchat">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/HomeController.cs">
+    <Files>
+      <File FileName="wwwroot/js/site.js" Line="33" Column="55" />
+      <File FileName="Controllers/HomeController.cs" Line="53" Column="33" />
+      <File FileName="Views/Home/Index.cshtml" Line="6" Column="18" />
+      <File FileName="wwwroot/css/site.css" Line="83" Column="22" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="Models/Account.cs" Line="15" Column="1" />
+      <File FileName="Models/Message.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="aspchat" expanded="True">
+            <Node name="aspchat" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.aspchat PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
